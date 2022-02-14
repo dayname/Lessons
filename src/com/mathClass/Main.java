@@ -2,7 +2,7 @@ package com.mathClass;
 
 public class Main {
     public static void main(String[] args) {
-        int result = Math.round(2.2F);
+        int result = Math.round(2.3F);
         System.out.println(result);
         int result1 = (int)Math.ceil(2.3F);
         System.out.println(result1);
